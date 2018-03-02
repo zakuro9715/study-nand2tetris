@@ -10,6 +10,7 @@ A Log of my studies.
 
 - [00](./projects/00)
 - [01 ブール論理](./projects/01)
+- [02 ブール算術](./projects/02)
 
 ## Reference
 
